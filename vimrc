@@ -38,6 +38,7 @@ set shiftwidth=4
 set softtabstop=4 
 set expandtab               " tab inserts spaces
 autocmd FileType make set noexpandtab   " Switch in tabs for Makefiles
+set backspace=indent,eol,start
 
 """""""""""""""""""
 " Etc.
